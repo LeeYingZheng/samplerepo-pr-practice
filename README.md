@@ -1,4 +1,3 @@
 # [Sample Repo] PR Practice
-Resolved.
-A sample repo for practicing how to create Pull Requests.
+A sample repo for practicing how to create Pull Requests. Clashed but resolved
 
